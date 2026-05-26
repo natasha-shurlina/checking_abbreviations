@@ -1,0 +1,102 @@
+{
+  "mode": "llm google",
+  "input": "ex1.txt",
+  "chunks_total": 5,
+  "errors": [
+    {
+      "fragment": "разраб",
+      "suggestion": "разраб.",
+      "chunk_offset": 0
+    },
+    {
+      "fragment": "разраб.",
+      "suggestion": "разраб.",
+      "chunk_offset": 0
+    },
+    {
+      "fragment": "обесп",
+      "suggestion": "обесп.",
+      "chunk_offset": 0
+    },
+    {
+      "fragment": "сп",
+      "suggestion": "СП",
+      "chunk_offset": 0
+    },
+    {
+      "fragment": "ГПНГ",
+      "suggestion": "GPNG",
+      "chunk_offset": 2800
+    },
+    {
+      "fragment": "ГЕП",
+      "suggestion": "GEP",
+      "chunk_offset": 2800
+    },
+    {
+      "fragment": "РД",
+      "suggestion": "RD",
+      "chunk_offset": 2800
+    },
+    {
+      "fragment": "КЗ0",
+      "suggestion": "KZ0",
+      "chunk_offset": 2800
+    },
+    {
+      "fragment": "ДWG",
+      "suggestion": "DWG",
+      "chunk_offset": 2800
+    },
+    {
+      "fragment": "СНиП",
+      "suggestion": "СП",
+      "chunk_offset": 2800
+    },
+    {
+      "fragment": "F1150",
+      "suggestion": "F1150",
+      "chunk_offset": 2800
+    },
+    {
+      "fragment": "W10",
+      "suggestion": "W10",
+      "chunk_offset": 2800
+    },
+    {
+      "fragment": "КС-3",
+      "suggestion": "КС-3",
+      "chunk_offset": 2800
+    },
+    {
+      "fragment": "ГОСТ",
+      "suggestion": "ГОСТ",
+      "chunk_offset": 2800
+    },
+    {
+      "fragment": "Газпромнефть",
+      "suggestion": "Газпромнефть",
+      "chunk_offset": 2800
+    },
+    {
+      "fragment": "Графитек",
+      "suggestion": "Графитек",
+      "chunk_offset": 2800
+    },
+    {
+      "fragment": "ащита",
+      "suggestion": "Защита",
+      "chunk_offset": 5600
+    },
+    {
+      "fragment": "бч",
+      "suggestion": "БЧ",
+      "chunk_offset": 5600
+    },
+    {
+      "fragment": "инж-констр.",
+      "suggestion": "Инж.-констр.",
+      "chunk_offset": 5600
+    }
+  ]
+}
