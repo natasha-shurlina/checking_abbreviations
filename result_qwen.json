@@ -1,0 +1,252 @@
+{
+  "mode": "llm qwen",
+  "input": "ex1.txt",
+  "parts_total": 5,
+  "errors": [
+    {
+      "fragment": "разраб",
+      "suggestion": "разраб.",
+      "part_offset": 0
+    },
+    {
+      "fragment": "обесп",
+      "suggestion": "обесп.",
+      "part_offset": 0
+    },
+    {
+      "fragment": "сп",
+      "suggestion": "СП",
+      "part_offset": 0
+    },
+    {
+      "fragment": "гип",
+      "suggestion": "ГИП",
+      "part_offset": 2800
+    },
+    {
+      "fragment": "кол-во",
+      "suggestion": "кол.",
+      "part_offset": 2800
+    },
+    {
+      "fragment": "раз.",
+      "suggestion": "разраб.",
+      "part_offset": 2800
+    },
+    {
+      "fragment": "ГИБ",
+      "suggestion": "ГИП",
+      "part_offset": 2800
+    },
+    {
+      "fragment": "Осмотр",
+      "suggestion": "Осмотр",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "погружения",
+      "suggestion": "погружения",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "соответствия",
+      "suggestion": "соответствия",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "разраб.",
+      "suggestion": "разраб.",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "Контроль",
+      "suggestion": "Контроль",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "замера",
+      "suggestion": "замера",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "Испытания",
+      "suggestion": "Испытания",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "Приёмка",
+      "suggestion": "Приёмка",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "составлением",
+      "suggestion": "составлением",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "актов",
+      "suggestion": "актов",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "завершенный",
+      "suggestion": "завершенный",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "процесс",
+      "suggestion": "процесс",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "выполненный",
+      "suggestion": "выполненный",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "самостоятельным",
+      "suggestion": "самостоятельным",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "подразделением",
+      "suggestion": "подразделением",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "исполнитель",
+      "suggestion": "исполнитель",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "Запрещается",
+      "suggestion": "Запрещается",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "последующих",
+      "suggestion": "последующих",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "отсутствии",
+      "suggestion": "отсутствии",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "освидетельствования",
+      "suggestion": "освидетельствования",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "предшествующих",
+      "suggestion": "предшествующих",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "скрытых",
+      "suggestion": "скрытых",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "работ",
+      "suggestion": "работ",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "обязательно",
+      "suggestion": "обязательно",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "указаны",
+      "suggestion": "указаны",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "таблице",
+      "suggestion": "таблице",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "Перечень",
+      "suggestion": "Перечень",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "видов",
+      "suggestion": "видов",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "для",
+      "suggestion": "для",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "которых",
+      "suggestion": "которых",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "необходимо",
+      "suggestion": "необходимо",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "составление",
+      "suggestion": "составление",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "Защита",
+      "suggestion": "Защита",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "конструкций",
+      "suggestion": "конструкций",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "предусмотрена",
+      "suggestion": "предусмотрена",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "основании",
+      "suggestion": "основании",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "Производство",
+      "suggestion": "Производство",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "зимних",
+      "suggestion": "зимних",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "условий",
+      "suggestion": "условий",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "выполнени",
+      "suggestion": "выполнение",
+      "part_offset": 4200
+    },
+    {
+      "fragment": "ащита",
+      "suggestion": "Защита",
+      "part_offset": 5600
+    },
+    {
+      "fragment": "кол-во уч",
+      "suggestion": "Кол-во уч.",
+      "part_offset": 5600
+    }
+  ]
+}
