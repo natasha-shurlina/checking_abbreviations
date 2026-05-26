@@ -36,6 +36,7 @@ README.md - Документация
 **LLM** (`llm_testing.py`) получает содержимое rules.yaml(только allowed) и extra_allowed.txt 
 , делит текст на фрагменты по 1500 символов с перекрытием 100 символов. Формируется промпт и 
 отправляется через InferenceClient (Hugging Face API) напрямую. Из ответа модели извлекается JSON-массив. 
+
 ---
 
 ## Требования
@@ -61,15 +62,15 @@ pip install pyyaml huggingface_hub
 python det.py -i example.txt -r rules.yaml
 ```
 
-**Запуск llm_testing, вывод в терминал:**
-```cmd
-set HF_TOKEN=hf_ваш_токен
-python llm_testing.py -i example.txt -r rules.yaml -e extra_allowed.txt -o result_llm.json
-```
-
 **Запуск det.py, с сохранением отчёта:**
 ```cmd
 python det.py -i example.txt -r rules.yaml -o result_det.json
+```
+
+**Запуск llm_testing:**
+```cmd
+set HF_TOKEN=hf_ваш_токен
+python llm_testing.py -i example.txt -r rules.yaml -e extra_allowed.txt -o result_llm.json
 ```
 
 ---
@@ -86,16 +87,16 @@ pip3 install pyyaml huggingface_hub
 python3 det.py -i example.txt -r rules.yaml
 ```
 
-**Запуск llm_testing, вывод в терминал:**
-```bash
-export HF_TOKEN=hf_ваш_токен
-python3 llm_testing.py -i example.txt -r rules.yaml -e extra_allowed.txt -o result_llm.json
-```
-
 **Запуск det.py, с сохранением отчёта:**
 ```bash
 python3 det.py -i example.txt -r rules.yaml -o result_det.json
 ````
+
+**Запуск llm_testing:**
+```bash
+export HF_TOKEN=hf_ваш_токен
+python3 llm_testing.py -i example.txt -r rules.yaml -e extra_allowed.txt -o result_llm.json
+```
 
 ---
 
